@@ -105,5 +105,69 @@ var (
 			location: "Sydney, Australia",
 			flagURL:  "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
 		},
+		"asia-south2": {
+			location: "Delhi, India",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+		},
+		"australia-southeast2": {
+			location: "Melbourne, Australia",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
+		},
+		"europe-central2": {
+			location: "Warsaw, Poland",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg",
+		},
+		"europe-southwest1": {
+			location: "Madrid, Spain",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg",
+		},
+		"europe-west8": {
+			location: "Milan, Italy",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+		},
+		"europe-west9": {
+			location: "Paris, France",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+		},
+		"me-west1": {
+			location: "Tel Aviv, Israel",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
+		},
+		"northamerica-northeast2": {
+			location: "Toronto, Canada",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg",
+		},
+		"southamerica-west1": {
+			location: "Santiago, Chile",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
+		},
+		"us-east5": {
+			location: "Columbus, Ohio, USA",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+		},
+		"us-south1": {
+			location: "Dallas, Texas, USA",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+		},
+		"us-west2": {
+			location: "Los Angeles, California, USA",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+		},
+		"us-west3": {
+			location: "Salt Lake City, Utah, USA",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+		},
+		"us-west4": {
+			location: "Las Vegas, Nevada, USA",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+		},
+		"europe-west12": {
+			location: "Turin, Italy",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+		},
+		"me-central1": {
+			location: "Doha, Qatar",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
+		},
 	}
 )
